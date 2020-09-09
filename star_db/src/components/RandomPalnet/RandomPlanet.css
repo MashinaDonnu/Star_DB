@@ -1,0 +1,15 @@
+.planet-image {
+    width: 19.8rem;
+    border-radius: 12px;
+}
+
+.planet-card {
+    /*min-width: 25rem;*/
+    background: #323232;
+    padding: 10px;
+}
+
+.planet-description li {
+    border: none;
+    border-bottom: 1px solid #4F4F4F;
+}

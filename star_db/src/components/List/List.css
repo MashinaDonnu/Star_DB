@@ -1,0 +1,5 @@
+.list:hover {
+    background: #222222;
+    transition: background-color .4s;
+    cursor: pointer;
+}

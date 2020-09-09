@@ -1,0 +1,6 @@
+export const START_LOADING = 'START_LOADING'
+export const STOP_LOADING = 'FINISH_LOADING'
+
+export const GET_ALL_DATA = 'GET_ALL_DATA'
+export const GET_ITEM_DATA = 'GET_ITEM_DATA'
+export const GET_RANDOM_PLANET = 'GET_RANDOM_PLANET'
